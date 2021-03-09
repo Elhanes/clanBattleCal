@@ -1,0 +1,13 @@
+body {
+  font-family: "Nanum Gothic", sans-serif;
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+}
+
+#name {
+  font-size: 18px;
+}
+
+#developer {
+  font-size: 12px;
+}
